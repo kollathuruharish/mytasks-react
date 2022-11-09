@@ -1,0 +1,92 @@
+[
+    {
+        "fname": "Alycia",
+        "lname": "Cabrera",
+        "tel": "(500)037-7277",
+        "address": "1062 Sed Ln",
+        "city": "Pompano Beach",
+        "state": "MN",
+        "zip": 97969
+    },
+    {
+        "fname": "Susen",
+        "lname": "Bélanger",
+        "tel": "(550)967-9051",
+        "address": "672 Et St",
+        "city": "Virginia Beach",
+        "state": "FL",
+        "zip": 21741
+    },
+    {
+        "fname": "Signia",
+        "lname": "Kessel",
+        "tel": "(861)438-1257",
+        "address": "1242 Tincidunt Ln",
+        "city": "Grand Forks",
+        "state": "AK",
+        "zip": 86525
+    },
+    {
+        "fname": "Lorenz",
+        "lname": "Kentro",
+        "tel": "(179)958-3336",
+        "address": "9771 Hendrerit St",
+        "city": "Oxford",
+        "state": "OH",
+        "zip": 47837
+    },
+    {
+        "fname": "Melanciaa",
+        "lname": "Landosky",
+        "tel": "(549)664-8727",
+        "address": "5416 Augue Ave",
+        "city": "Glencoe",
+        "state": "IN",
+        "zip": 35768
+    },
+    {
+        "fname": "Guillaume",
+        "lname": "Deskins",
+        "tel": "(291)641-0542",
+        "address": "3683 Neque St",
+        "city": "Litchfield Park",
+        "state": "GA",
+        "zip": 34578
+    },
+    {
+        "fname": "Terri",
+        "lname": "Hutchinson",
+        "tel": "(250)578-3723",
+        "address": "8642 Libero Ct",
+        "city": "Pickerington",
+        "state": "RI",
+        "zip": 31995
+    },
+    {
+        "fname": "Nalika",
+        "lname": "Catania",
+        "tel": "(804)453-3562",
+        "address": "9059 Lacus Ct",
+        "city": "Marion",
+        "state": "ID",
+        "zip": 80593
+    },
+    {
+        "fname": "Kenneth",
+        "lname": "Cummings",
+        "tel": "(566)551-3557",
+        "address": "2068 Donec Ln",
+        "city": "Owensboro",
+        "state": "WV",
+        "zip": 26025
+    },
+    {
+        "fname": "Kyle",
+        "lname": "Frazee",
+        "tel": "(492)844-9003",
+        "address": "8289 Sit Ct",
+        "city": "Palmer",
+        "state": "NC",
+        "zip": 16991
+    }
+]

@@ -1,0 +1,34 @@
+ [
+      {
+        "fName": "Lokesh",
+        "lName": "s d",
+        "email": "lokeshvasu63@gmail.com",
+        "empid":"TR098"
+      },
+      {
+        "fName": "Dilip",
+        "lName": "s m",
+        "email": "dilipgannne001@gmail.com",
+        "empid": "TR0708"
+      },
+      {
+        "fName": "Hareesh",
+        "lName": "Kumar",
+        "email": "hareesh001@gmail.com",
+        "empid": "TR0850"
+      },
+      {
+        "fName": "Hari",
+        "lName": "Kishore",
+        "email": "kumar@.com",
+        "empid": "TR0950"
+      },
+      {
+        "fName": "gaja",
+        "lName": "hari",
+        "email": "gaja@gmail.com",
+        "empid": "TR0850"
+      }
+      
+    ]
+  

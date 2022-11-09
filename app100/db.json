@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "name": "Lokesh",
+      "email": "Lokesh@gmail.com",
+      "contact": "9876098732",
+      "address": "ctr",
+      "qualification": "Bsc",
+      "passedOut": "2017",
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "id": 1
+    },
+    {
+      "name": "Harish",
+      "email": "harish34@gmail.com",
+      "contact": "7639960153",
+      "address": "Paradharami",
+      "qualification": "BE",
+      "passedOut": "2019",
+      "description": "Harish is educated completed at 2019 passedout  in Git after completed the course worked in some coupleo of month in BPO Profession.",
+      "id": 2
+    },
+    {
+      "name": "Chandra Babu",
+      "email": "chanduroyal@gmail.com",
+      "contact": "9086342190",
+      "address": "Kurnool",
+      "qualification": "MCA",
+      "passedOut": "2018",
+      "description": "Chandra babu is graduated at deemed university with first class ",
+      "id": 3
+    },
+    {
+      "name": "Abi M",
+      "email": "Abirami@gmail.com",
+      "contact": "9875345676",
+      "address": "Pollachi",
+      "qualification": "BE",
+      "passedOut": "2019",
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "id": 4
+    }
+  ]
+}
